@@ -1,0 +1,20 @@
+
+        em{
+             color: orange; 
+            text-decoration: double;
+            text-decoration: underline;
+
+        }
+       
+        code {
+            color: lime;
+            text-decoration: underline;
+            
+        }
+        
+        body > main > ol > li:nth-child(1) > code {
+            color: white;
+            background-color: black;
+        }
+
+   
